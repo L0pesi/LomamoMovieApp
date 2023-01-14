@@ -8,8 +8,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        //Comentario de teste
-        //comentario numero 2
+        //toca a fazer
+        // a api é a da tv maze
 
     }
 }
